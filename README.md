@@ -10,4 +10,4 @@ And Using :
 
 Video Screen : 
 
-[![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/_uSpi2vKfb4/maxresdefault.jpg)](https://www.youtube.com/watch?v=_uSpi2vKfb4)
+[![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/_uSpi2vKfb4/hqdefault.jpg)](https://www.youtube.com/watch?v=_uSpi2vKfb4)
